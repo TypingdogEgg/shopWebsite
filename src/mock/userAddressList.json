@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "userAddress": "四川省成都市青白江区",
+        "userId": 2,
+        "consignee": "陈小红",
+        "phoneNum": "13699994111",
+        "isDefault": "1"
+    },
+    {
+        "id": 2,
+        "userAddress": "重庆市南岸区",
+        "userId": 2,
+        "consignee": "张三",
+        "phoneNum": "17103070751",
+        "isDefault": "0"
+    },
+    {
+        "id": 3,
+        "userAddress": "四川省成都市成华区",
+        "userId": 2,
+        "consignee": "王五",
+        "phoneNum": "13699411268",
+        "isDefault": "0"
+    }
+]
